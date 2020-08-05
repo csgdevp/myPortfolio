@@ -143,6 +143,12 @@ ul.skills {
    background-color: #4c6d86;
 }
 
+.contact {
+  padding-top: 90px;
+  background-color: white;
+  color: black;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
